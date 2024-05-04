@@ -1,0 +1,15 @@
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\obj\Debug\net7.0-windows\DzielenieLiczb.csproj.AssemblyReference.cache
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\obj\Debug\net7.0-windows\DzielenieLiczb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\obj\Debug\net7.0-windows\DzielenieLiczb.AssemblyInfoInputs.cache
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\obj\Debug\net7.0-windows\DzielenieLiczb.AssemblyInfo.cs
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\obj\Debug\net7.0-windows\DzielenieLiczb.csproj.CoreCompileInputs.cache
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\bin\Debug\net7.0-windows\DzielenieLiczb.exe
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\bin\Debug\net7.0-windows\DzielenieLiczb.deps.json
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\bin\Debug\net7.0-windows\DzielenieLiczb.runtimeconfig.json
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\bin\Debug\net7.0-windows\DzielenieLiczb.dll
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\bin\Debug\net7.0-windows\DzielenieLiczb.pdb
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\obj\Debug\net7.0-windows\DzielenieLiczb.dll
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\obj\Debug\net7.0-windows\refint\DzielenieLiczb.dll
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\obj\Debug\net7.0-windows\DzielenieLiczb.pdb
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\obj\Debug\net7.0-windows\DzielenieLiczb.genruntimeconfig.cache
+C:\Users\GM Cedry Wielkie\dzielenie\DzielenieLiczb\obj\Debug\net7.0-windows\ref\DzielenieLiczb.dll

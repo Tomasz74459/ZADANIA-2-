@@ -1,0 +1,15 @@
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\obj\Debug\net7.0\zasobyzad3.csproj.AssemblyReference.cache
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\obj\Debug\net7.0\zasobyzad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\obj\Debug\net7.0\zasobyzad3.AssemblyInfoInputs.cache
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\obj\Debug\net7.0\zasobyzad3.AssemblyInfo.cs
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\obj\Debug\net7.0\zasobyzad3.csproj.CoreCompileInputs.cache
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\bin\Debug\net7.0\zasobyzad3.exe
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\bin\Debug\net7.0\zasobyzad3.deps.json
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\bin\Debug\net7.0\zasobyzad3.runtimeconfig.json
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\bin\Debug\net7.0\zasobyzad3.dll
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\bin\Debug\net7.0\zasobyzad3.pdb
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\obj\Debug\net7.0\zasobyzad3.dll
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\obj\Debug\net7.0\refint\zasobyzad3.dll
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\obj\Debug\net7.0\zasobyzad3.pdb
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\obj\Debug\net7.0\zasobyzad3.genruntimeconfig.cache
+C:\Users\GM Cedry Wielkie\Desktop\zasobyzad3\obj\Debug\net7.0\ref\zasobyzad3.dll
